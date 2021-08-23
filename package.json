@@ -2,7 +2,7 @@
   "name": "food-info",
   "version": "1.0.0",
   "description": "### Simple project from course Node.js, Express, MongoDB & More: The Complete Bootcamp 2021",
-  "main": "index.js",
+  "main": "api.js",
   "scripts": {
     "dev": "nodemon api.js"
   },
