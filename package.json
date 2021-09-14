@@ -1,7 +1,7 @@
 {
   "name": "food-info",
-  "version": "1.0.0",
-  "description": "### Simple project from course Node.js, Express, MongoDB & More: The Complete Bootcamp 2021",
+  "version": "1.0.1",
+  "description": "Simple project with Node.js and pure html/css",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/vladiuskor/food-info/issues"
   },
-  "homepage": "https://github.com/vladiuskor/food-info#readme",
-  "dependencies": {
-    "nodemon": "^2.0.12"
-  }
+  "homepage": "https://github.com/vladiuskor/food-info#readme"
 }
