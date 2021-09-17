@@ -1,7 +1,7 @@
 # Food info
 #### Project status: Done. 
 
-This simple 'dynamic' web-site, which I built using Node.js and pure html/css.
+It is a simple 'dynamic' web-site, which I built using Node.js and pure html/css.
 
 Pages are not responsive.
 
